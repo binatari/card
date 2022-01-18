@@ -1,5 +1,5 @@
 # Card Component
-
+(Note: please enable internet to display properly)
 Card component created using HTML/CSS
 
 ## Image
